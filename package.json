@@ -2,6 +2,7 @@
   "dependencies": {
     "express": "^4.21.0",
     "lodash": "^4.17.21",
+    "mysql2": "^3.11.3",
     "pug": "^3.0.3"
   },
   "name": "242r-backend",
